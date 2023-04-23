@@ -9,6 +9,8 @@ https://user-images.githubusercontent.com/6422188/233827259-bf5189d5-808d-4037-9
 
 
 ## Use
+Make sure you have a recent `ffmpeg` available and you're on Windows.
+
 1. Set `TWITCH_STREAM_KEY` to your [stream key](https://dashboard.twitch.tv/settings/stream) 
 2. `strim`
 3. `Ctrl-c` to stop
