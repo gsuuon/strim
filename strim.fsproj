@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
+    <PackageId>Gsuuon.Tool.Strim</PackageId>
     <PackageVersion>0.0.1</PackageVersion>
     <ToolCommandName>strim</ToolCommandName>
 
