@@ -24,7 +24,7 @@ dotnet run
 
 ### From nuget
 ```
-dotnet tool install --global strim
+dotnet tool install --global Gsuuon.Tool.Strim
 strim
 ```
 
